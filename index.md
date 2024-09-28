@@ -21,7 +21,7 @@ I aim to leverage artificial intelligence and large language models to transform
 - [Research and Construction of Knowledge Graph of Guizhi associated decoctions based on Neo4j](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=SJZA201910021&uniplatform=OVERSEA&v=cXfJRKuCDwBMCpLq-Fn1QU7Glacr1ucsniykm066h79K3kvB_IE50oKIOCIQZa6I)  
   **Zhao Kai**, Shi Na, Sa Zhen, Wang Huaxing, Xu Xiaoying.  
   World Chinese Medicine,2019  
-  (This article has been included in the CNKI Academic Abstracts September to October 2023: high-ranking PCSI articles, highly cited articles, and highly downloaded articles.)
+  <span style="font-size: 0.9em;"><i>This article has been included in the CNKI(China National Knowledge Infrastructure) Academic Abstracts September to October 2023: high-ranking PCSI articles, highly cited articles, and highly downloaded articles.</i></span>
 
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
 - **April 2024：**Our work _BLEGuard_ has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
