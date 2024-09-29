@@ -16,6 +16,7 @@ title: Experience
 - 01/09/2018 – 31/01/2020: Medical Assistant-Accompanying Internship, Outpatient Clinic of the National Chinese Medicine Department at Beijing University of Chinese Medicine (Beijing, China)
 - 01/01/2018 – 28/02/2018: Medical Assistant - Accompanying Internship, General Practitioner Doctor Kang Shouyi (Shanxi, China)
 - 31/07/2013 – 15/10/2013: Factory Internship, Hefei Hengda Jianghai Pump CO. LTD By Shares (Hefei, China)
+
 <p style="font-size: 0.8em;">More details about my experience are shared on the <a href="https://www.linkedin.com/in/kai-zhao-manuel0123/" target="_blank">LinkedIn</a> page.</p>
 
 <br>
