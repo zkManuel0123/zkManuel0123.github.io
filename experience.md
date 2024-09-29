@@ -39,7 +39,7 @@ title: Experience
   <dt style="width: 220px; float: left;">31/07/2013 – 15/10/2013:</dt>
   <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;">Factory Internship,
   <br>Hefei Hengda Jianghai Pump CO. LTD By Shares (Hefei, China)</dd>
-
+</dl>
 <p style="font-size: 0.8em; text-align: left;">
   More details about my experience are shared on the <a href="https://www.linkedin.com/in/kai-zhao-manuel0123/" target="_blank">LinkedIn</a> page.
 </p>
