@@ -8,30 +8,40 @@ title: Experience
 
 ### Experience
 
-- 01/02/2024 - 31/08/2024：Student Assistant in Data Analysis,
-                           Rosenpark Research GmbH (Darmstadt, Germany)
-<br>  
-- 01/04/2023 – 31/07/2023: Student Assistant,
-                           Department of Mathematics at the Technical University of Darmstadt
-<br>
-- 15/11/2022 – 28/02/2023: Working Student,
-                           Custom Medical GmbH (Darmstadt, Germany)
-<br>
-- 06/08/2020 – 06/09/2020: Internship-Editor for Scientific Journals,<br>
-                           World Science and Technology (Beijing, China)
+<dl>
+  <dt style="width: 180px; float: left;">01/02/2024 - 31/08/2024:</dt>
+  <dd style="margin-left: 150px; white-space: nowrap; margin-bottom: 20px;">Student Assistant in Data Analysis,<br>Rosenpark Research GmbH (Darmstadt, Germany)</dd>
 
-- 29/06/2020 – 05/08/2020: Student Assistant for Chinese Herbal Preparations,<br>
-  Cheng Dao Zhi Ji Technology Co.,Ltd (Beijing, China)
+  <dt style="width: 180px; float: left;">01/04/2023 – 31/07/2023:</dt>
+  <dd style="margin-left: 150px; white-space: nowrap; margin-bottom: 20px;">Student Assistant,
+  <br>Department of Mathematics at the Technical University of Darmstadt</dd>
 
-- 01/09/2018 – 31/01/2020: Medical Assistant-Accompanying Internship,<br>
-  Outpatient Clinic of the National Chinese Medicine Department at Beijing University of Chinese Medicine (Beijing, China)
+  <dt style="width: 180px; float: left;">15/11/2022 – 28/02/2023:</dt>
+  <dd style="margin-left: 150px; white-space: nowrap; margin-bottom: 20px;">Working Student,
+  <br>Custom Medical GmbH (Darmstadt, Germany)</dd>
 
-- 01/01/2018 – 28/02/2018: Medical Assistant - Accompanying Internship,<br>
-  General Practitioner Doctor Kang Shouyi (Shanxi, China)
+  <dt style="width: 180px; float: left;">06/08/2020 – 06/09/2020:</dt>
+  <dd style="margin-left: 150px; white-space: nowrap; margin-bottom: 20px;">Internship-Editor for Scientific Journals,
+  <br>World Science and Technology (Beijing, China)</dd>
 
-- 31/07/2013 – 15/10/2013: Factory Internship,<br>
-  Hefei Hengda Jianghai Pump CO. LTD By Shares (Hefei, China)
+  <dt style="width: 180px; float: left;">29/06/2020 – 05/08/2020:</dt>
+  <dd style="margin-left: 150px; white-space: nowrap; margin-bottom: 20px;">Student Assistant for Chinese Herbal Preparations,
+  <br>Cheng Dao Zhi Ji Technology Co.,Ltd (Beijing, China)</dd>
 
-<p style="font-size: 0.8em;">More details about my experience are shared on the <a href="https://www.linkedin.com/in/kai-zhao-manuel0123/" target="_blank">LinkedIn</a> page.</p>
+  <dt style="width: 180px; float: left;">01/09/2018 – 31/01/2020:</dt>
+  <dd style="margin-left: 150px; white-space: nowrap; margin-bottom: 20px;">Medical Assistant-Accompanying Internship,
+  <br>Outpatient Clinic of the National Chinese Medicine Department at Beijing University of Chinese Medicine (Beijing, China)</dd>
 
-<br>
+  <dt style="width: 180px; float: left;">01/01/2018 – 28/02/2018:</dt>
+  <dd style="margin-left: 150px; white-space: nowrap; margin-bottom: 20px;">Medical Assistant - Accompanying Internship,
+  <br>General Practitioner Doctor Kang Shouyi (Shanxi, China)</dd>
+
+  <dt style="width: 180px; float: left;">31/07/2013 – 15/10/2013:</dt>
+  <dd style="margin-left: 150px; white-space: nowrap; margin-bottom: 20px;">Factory Internship,
+  <br>Hefei Hengda Jianghai Pump CO. LTD By Shares (Hefei, China)</dd>
+
+<p style="font-size: 0.8em; text-align: right;">
+  More details about my experience are shared on the <a href="https://www.linkedin.com/in/kai-zhao-manuel0123/" target="_blank">LinkedIn</a> page.
+</p>
+
+
