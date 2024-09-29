@@ -9,7 +9,7 @@ title: Project
 <dl>
   <dt style="width: 180px; float: left;">10/2023 - 09/2024</dt>
   <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
-    <span style="white-space: nowrap;">Semi-Automatic Tool for Annotating Large-Scale 3D Assets</span>
+    <span style="white-space: nowrap;">**Semi-Automatic Tool for Annotating Large-Scale 3D Assets**</span>
     <div style="line-height: 1.2;">
       <span style="display: block; width: 700px;">Project in the department of Computer Science, Fachgebiet Simulation Systemoptimierung und Robotik, Technische Universität Darmstadt</span>
     </div>
@@ -20,7 +20,7 @@ title: Project
 
   <dt style="width: 180px; float: left;">08/2018 - 02/2019</dt>
   <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
-    <span style="display: block; width: 700px;">Effect of Melatonin Combined with Yupingfeng Powder on Immune Function in Elderly Rats Under Sudden Temperature Changes</span>
+    <span style="display: block; width: 700px;">**Effect of Melatonin Combined with Yupingfeng Powder on Immune Function in Elderly Rats Under Sudden Temperature Changes**</span>
     <div style="line-height: 1.2;">
       <span style="display: block; width: 700px;">Beijing University of Chinese Medicine Scientific Research Development Fund Project, No.2010072120027</span>
     </div>
