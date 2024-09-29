@@ -4,10 +4,12 @@ layout: page
 
 ### About me
 
+<p>
 I am currently pursuing a Master’s degree in Medical Technology at the Technical University of Darmstadt and I am looking for a topic for the master's thesis. My primary research interest lies in the application of large language models in medicine. Prior to this, I obtained a Master’s degree in Medicine from Beijing University of Chinese Medicine in 2020. I am passionate about exploring innovative ways to leverage artificial intelligence to improve healthcare outcomes, with a particular focus on how language models can enhance medical practices and decision-making.
-
+</p>
+<p>
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me: kai.zhao@stud.tu-darmstadt.de
-
+</p>
 ---
 
 ### Research Interests

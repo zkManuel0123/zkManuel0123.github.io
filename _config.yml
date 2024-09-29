@@ -38,11 +38,12 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-
-  - title: Work Experiences
-    url: /awards/
-  - title: Projects
-    url: /blogs/
+  - title: Education
+    url: /education/
+  - title: Experience
+    url: /experience/
+  - title: Project
+    url: /project/
   - title: Hobbies
     url: /hobbies/
 
