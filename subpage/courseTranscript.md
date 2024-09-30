@@ -7,7 +7,7 @@ title: Completed Courses and Transcripts
 
 <h5 style="white-space: nowrap;">Specialized Courses Completed in M.Sc.Medizintechnik at TU Darmstadt & GU Frankfurt</h5>
 
-- [Transcript](http://zkManuel0123.github.io/files/Leistungsspiegel.pdf)
+- [Transcript](http://zkManuel0123.github.io/file/Leistungsspiegel.pdf)
 
 <dl>
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Medizinprodukteregulierung</dt>
