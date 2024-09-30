@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /subpage/course and transcript/index.html
+permalink: /subpage/course_and_transcript/index.html
 title: Completed Courses
 ---
 > Update: 30th Sep 2024
