@@ -10,7 +10,7 @@ title: Education
   <dt style="width: 180px; float: left;">04/2022 – Present</dt>
   <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">M.Sc. in Medical Technology (Medizintechnik),<br>
   Technische Universität Darmstadt & Goethe-Universität Frankfurt<br>
-  <span style="font-size: 0.9em; "><a href="https://zkManuel0123.github.io/subpage/courseTranscript.md">Completed Courses and Transcripts</a></span>
+  <span style="font-size: 0.9em; ">[Completed Courses and Transcripts](https://zkManuel0123.github.io/subpage/courseTranscript.md)</span>
   </dd>
 
   <dt style="width: 180px; float: left;">04/2021 – 03/2022</dt>
