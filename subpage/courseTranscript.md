@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /subpage/courseTranscript/index.html
-title: Completed Courses
+title: Completed Courses and Transcripts
 ---
 > Update: 30th Sep 2024
 
