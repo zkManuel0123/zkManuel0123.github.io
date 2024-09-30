@@ -18,7 +18,7 @@ title: Completed Courses
   <dt style="width: 180px; float: left; font-weight: bold;">Medical Data Science</dt>
   <dd style="margin-left: 180px; margin-bottom: 20px; max-width: 700px;">
     <div style="font-size: 0.9em; line-height: 1.5;">
-      <span style="display: block; width: 700px;">Ich habe den Aufbau und die Entwicklung von Patientenregistern, die Anonymisierung von Gesundheitsdaten, Einwilligungserklärungen und Datenschutz, sowie die Forschungsstruktur in der Medizininformatik und zugehörige Berufsfelder gelernt. Unter Anleitung meines <a href="https://www.linkedin.com/in/abishaa-vengadeswaran-19100a117/" target="_blank">Dozenten</a> habe ich zudem eine kleine Arbeit über <a href="https://zkManuel0123.github.io/file/MedicalDataScience.pdf" target="_blank">FHIR</a> verfasst.</span>
+      <span style="display: block; width: 700px;">Ich habe den Aufbau und die Entwicklung von Patientenregistern, die Anonymisierung von Gesundheitsdaten, Einwilligungserklärungen und Datenschutz, sowie die Forschungsstruktur in der Medizininformatik und zugehörige Berufsfelder gelernt. Unter Anleitung meiner Dozentin <a href="https://www.linkedin.com/in/abishaa-vengadeswaran-19100a117/" target="_blank">Frau Abishaa Vengadeswaran</a> und von <a href="https://www.imi-frankfurt.de/das-team-der-mig/" target="_blank">Prof. Dr. Holger Storf</a> habe ich <a href="https://zkManuel0123.github.io/file/MedicalDataScience.pdf" target="_blank">eine kurze Arbeit über FHIR</a> verfasst.</span>
     </div>
   </dd>
 
