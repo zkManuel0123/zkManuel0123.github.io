@@ -97,7 +97,7 @@ title: Completed Courses and Transcripts
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Praktikum der Chirurgie und Zahnmedizin I & II</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">In diesem Praktikum habe ich die klinische Anwendung von chirurgischer Robotik, Navigation und digitaler Zahnmedizin, insbesondere in der Neuronavigation, Wirbelsäulen- und Beckenchirurgie, Onkologie und rekonstruktiven Zahnmedizin, sowie den Einsatz zugehöriger medizintechnischer Geräte und Softwareapplikationen praktisch kennengelernt.</span>
+      <span style="display: block; width: 800px;">In diesem Praktikum am Klinikum der Goethe-Universität Frankfurt habe ich die klinische Anwendung von chirurgischer Robotik, Navigation und digitaler Zahnmedizin, insbesondere in der Neuronavigation, Wirbelsäulen- und Beckenchirurgie, Onkologie und rekonstruktiven Zahnmedizin, sowie den Einsatz zugehöriger medizintechnischer Geräte und Softwareapplikationen praktisch kennengelernt.</span>
     </div>   
   </dd>
 

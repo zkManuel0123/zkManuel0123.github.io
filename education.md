@@ -8,9 +8,9 @@ title: Education
 
 <dl>
   <dt style="width: 180px; float: left;">04/2022 – Present</dt>
-  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">M.Sc. in Medical Technology (Medizintechnik),<br>
+  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">M.Sc. Medizintechnik (Medical Technology),<br>
   Technische Universität Darmstadt & Goethe-Universität Frankfurt<br>
-  <span style="font-size: 0.8em; "><a href="/subpage/courseTranscript/index.html" style="color: blue;">Completed Courses and Transcripts</a></span>
+  <span style="font-size: 0.8em; "><a href="/subpage/courseTranscript/index.html" style="color: blue;">Completed Courses and Transcript</a></span>
   </dd>
 
   <dt style="width: 180px; float: left;">04/2021 – 03/2022</dt>
@@ -22,9 +22,9 @@ title: Education
   Technische Universität Dresden</dd>
 
   <dt style="width: 180px; float: left;">09/2017 – 06/2020</dt>
-  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Master of Medicine in Chinese Medicine,<br>
+  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Master of Medicine in Chinese Medicine, Three-year Research-based Program <br>
   Beijing University of Chinese Medicine (Beijing, China)<br>
-  <span style="font-size: 0.8em; "><a href="http://zkManuel0123.github.io/file/TranscriptTCM.pdf" style="color: blue;">Transcript</a></span>
+  <span style="font-size: 0.8em; margin-right: 20px;"><a href="http://zkManuel0123.github.io/file/TranscriptTCM.pdf" style="color: blue;" target="_blank">Transcript</a></span><span style="font-size: 0.8em; "><a href="https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021011708.nh&uniplatform=OVERSEA&v=vRjUgJazyYZWKLSi2Lvy86tLhTWNsJPY5wziGsxW11iVuJEXoQF5MvONx8CD2Oq-" style="color: blue;" target="_blank">Master's Thesis</a></span>
   </dd>
 
   <dt style="width: 180px; float: left;">07/2014 – 06/2017</dt>
