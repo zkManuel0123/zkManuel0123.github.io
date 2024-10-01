@@ -6,12 +6,22 @@ title: Project
 
 ## Project
 
+<style>
+  .underline-effect {
+    text-decoration: none;
+    border-bottom: 1px dashed black;
+  }
+  .underline-effect:hover {
+    border-bottom: 1px solid black;
+  }
+</style>
+
 <dl>
   <dt style="width: 180px; float: left;">10/2023 - 09/2024</dt>
   <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
     <span style="white-space: nowrap; font-weight: bold;">Semi-Automatic Tool for Annotating Large-Scale 3D Assets</span>
     <div style="line-height: 1.2;">
-      <span style="display: block; width: 700px;">Project in the department of Computer Science, Fachgebiet Simulation Systemoptimierung und Robotik, Technische Universität Darmstadt, in collaboration with <a href="https://www.energy-robotics.com/" style="text-decoration: underline;" target="_blank">Energy Robotics</a></span>
+      <span style="display: block; width: 700px;">Project in the department of Computer Science, Fachgebiet Simulation Systemoptimierung und Robotik, Technische Universität Darmstadt, in collaboration with <a href="https://www.energy-robotics.com/" target="_blank" class="underline-effect">Energy Robotics</a></span>
     </div>
     <div style="font-size: 0.8em; line-height: 1.5;">
       <span style="display: block; width: 700px;">In this project, we developed a semi-automatic tool for annotating large-scale 3D assets from RGB videos, using NeRF, SA3D, and SAM 2. Our approach effectively generates accurate 3D meshes while reducing manual effort. It is particularly suited for larger objects with distinct color profiles, although challenges like motion blur and video instability remain. Future improvements will focus on enhancing mesh precision and addressing issues related to video quality, occlusions, and the use of implicit surface reconstruction methods, aiming to expand its application in virtual reality, augmented reality, and automated inspection systems.</span>

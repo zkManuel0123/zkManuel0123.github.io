@@ -9,6 +9,16 @@ title: Completed Courses and Transcripts
 
 - [Transcript](http://zkManuel0123.github.io/file/Leistungsspiegel.pdf)
 
+<style>
+  .underline-effect {
+    text-decoration: none;
+    border-bottom: 1px dashed black;
+  }
+  .underline-effect:hover {
+    border-bottom: 1px solid black;
+  }
+</style>
+
 <dl>
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Medizinprodukteregulierung</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
@@ -27,7 +37,7 @@ title: Completed Courses and Transcripts
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Medical Data Science</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">Ich habe den Aufbau und die Entwicklung von Patientenregistern, die Anonymisierung von Gesundheitsdaten, Einwilligungserklärungen und Datenschutz, sowie die Forschungsstruktur in der Medizininformatik und zugehörige Berufsfelder gelernt. Unter Anleitung meiner Dozentin <a href="https://www.linkedin.com/in/abishaa-vengadeswaran-19100a117/" target="_blank" style="text-decoration: underline;">Frau Abishaa Vengadeswaran</a> und von <a href="https://www.imi-frankfurt.de/das-team-der-mig/" target="_blank" style="text-decoration: underline;">Prof. Dr. Holger Storf</a> habe ich <a href="https://zkManuel0123.github.io/file/MedicalDataScience.pdf" target="_blank" style="text-decoration: underline;">eine kurze Arbeit über FHIR</a> verfasst.</span>
+      <span style="display: block; width: 800px;">Ich habe den Aufbau und die Entwicklung von Patientenregistern, die Anonymisierung von Gesundheitsdaten, Einwilligungserklärungen und Datenschutz, sowie die Forschungsstruktur in der Medizininformatik und zugehörige Berufsfelder gelernt. Unter Anleitung meiner Dozentin <a href="https://www.linkedin.com/in/abishaa-vengadeswaran-19100a117/" target="_blank" class="underline-effect">Frau Abishaa Vengadeswaran</a> und von <a href="https://www.imi-frankfurt.de/das-team-der-mig/" target="_blank" class="underline-effect">Prof. Dr. Holger Storf</a> habe ich <a href="https://zkManuel0123.github.io/file/MedicalDataScience.pdf" target="_blank" class="underline-effect">eine kurze Arbeit über FHIR</a> verfasst.</span>
     </div>
   </dd>
 

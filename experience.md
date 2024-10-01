@@ -11,19 +11,9 @@ title: Experience
 <dl>
   <dt style="width: 220px; float: left;">02/2024 - 08/2024:</dt>
   <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;">Student Assistant in Medical Data Analysis,<br>Rosenpark Research GmbH (Darmstadt, Germany)</dd>
-
-  <style>
-  .underline-effect {
-    text-decoration: none;
-    border-bottom: 1px dashed blue;
-  }
-  .underline-effect:hover {
-    border-bottom: 1px solid blue;
-  }
-  </style>
   
   <dt style="width: 220px; float: left;">04/2023 – 07/2023:</dt>
-  <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;"><a href="http://zkManuel0123.github.io/file/ArbeitszeugnisvonstudentischeHilfskraft.pdf" class="underline-effect">Student Assistant as Tutor in C++ Programming<a/>,
+  <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;"><a href="http://zkManuel0123.github.io/file/ArbeitszeugnisvonstudentischeHilfskraft.pdf" class="underline-effect">Student Assistant as Tutor in C++ Programming</a>,
   <br>Department of Mathematics at the Technical University of Darmstadt</dd>
 
   <dt style="width: 220px; float: left;">11/2022 – 02/2023:</dt>
@@ -52,10 +42,21 @@ title: Experience
 
   <dt style="width: 220px; float: left;">07/2013 – 10/2013:</dt>
   <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;">Factory Internship,
-  <br>Hefei Hengda Jianghai Pump CO. LTD By Shares (Hefei, China)</dd>
+  <br>Hefei Hengda Jianghai Pump CO. LTD By Shares (Hefei, China)
+  </dd>
 </dl>
-<p style="font-size: 0.8em; text-align: left;">
+
+<style>
+  .underline-effect {
+    text-decoration: none;
+    border-bottom: 1px dashed black;
+  }
+  .underline-effect:hover {
+    border-bottom: 1px solid black;
+  }
+  </style>
+<!-- <p style="font-size: 0.8em; text-align: left;">
   More details about my experience are shared on the <a href="https://www.linkedin.com/in/kai-zhao-manuel0123/" target="_blank">LinkedIn</a> page.
-</p>
+</p> -->
 
 
