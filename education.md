@@ -39,3 +39,18 @@ title: Education
 </dl>
 
 <br style="clear: both;" />
+
+### Software and Programming Proficiencies
+
++ Machine Learning: Python
++ Deep Learning: PyTorch
++ Natural Language Processing (NLP)
++ Programming Languages: Python, C, C++, Java
++ Web Development: HTML, CSS, JavaScript, VueJS
++ Databases: SQL
++ Software Tools: Git, Linux
++ Software Testing
++ Computer Vision and OpenGL
+
+
+ 
