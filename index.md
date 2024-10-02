@@ -23,7 +23,7 @@ I aim to leverage artificial intelligence and large language models to transform
 - [Study and Implementation on Knowledge Graph of Guizhi Decoction Associated Formulas Based on Neo4j](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=SJZA201910021&uniplatform=OVERSEA&v=cXfJRKuCDwBMCpLq-Fn1QU7Glacr1ucsniykm066h79K3kvB_IE50oKIOCIQZa6I)  
   **Zhao Kai**, Shi Na, Sa Zhen, Wang Huaxing, Xu Xiaoying.  
   World Chinese Medicine,2019  
-  <span style="font-size: 0.9em;"><i>This article has been included in the CNKI(China National Knowledge Infrastructure) Academic Abstracts September to October 2023: high-ranking PCSI articles, highly cited articles, and highly downloaded articles.</i></span>
+  <span style="font-size: 0.9em;"><i><a href="/images/Certificate.PNG" class="underline-effect" target="_blank">This article has been included in the CNKI(China National Knowledge Infrastructure) Academic Abstracts September to October 2023: high-ranking PCSI articles, highly cited articles, and highly downloaded articles.</a></i></span>
 
 - [Text mining and analysis of treatise on febrile diseases based on natural language processing](https://journals.lww.com/wtcm/fulltext/2020/06010/text_mining_and_analysis_of_treatise_on_febrile.7.aspx)  
    **Zhao Kai**, Shi N, Sa Z, Wang HX, Lu CH, Xu XY  
@@ -42,3 +42,13 @@ I aim to leverage artificial intelligence and large language models to transform
    World Federation of Chinese Medicine Societies, Proceedings of the 10th International Conference on Gynecology of Traditional Chinese Medicine, 2019
 
 <br>
+
+<style>
+  .underline-effect {
+    text-decoration: none;
+    border-bottom: 1px dashed black;
+  }
+  .underline-effect:hover {
+    border-bottom: 1px solid black;
+  }
+</style>
