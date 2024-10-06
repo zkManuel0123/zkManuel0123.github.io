@@ -6,4 +6,4 @@ title: My Coding Journey
 
 ### From Medicine to Code: My Coding Journey 
 
-A Moment Later......
+- This personal homepage is my first work to code.
