@@ -8,13 +8,13 @@ title: My Coding Journey
 
   *This personal homepage is my first work to code.*
 
-### 1. Udemy Web Development Bootcamp Project: Dice Game | HTML, CSS, JS
+### Web Development Bootcamp Project 1: Dice Game | HTML, CSS, JS
   *Developed an interactive dice game, allowing two players to roll dice and display the winner based on random dice rolls.*
 - Implemented JS to generate random numbers, update DOM elements using querySelector() and setAttribute(), and dynamically display the result using If statements.
 - Project repository: [GitHub Link](https://github.com/zkManuel0123/Udemy-Course-Project)
 
 
-### 2. Bootcamp Project: Drum Kit Game
+### Bootcamp Project 2: Drum Kit Game
   *Developed an interactive web-based "Drum Kit" game using JavaScript.*
 - Implemented event listeners to detect both button clicks and keyboard presses, triggering corresponding drum sounds.
 - Utilized the Audio object in JavaScript to play sound files dynamically based on user interactions.
