@@ -13,6 +13,7 @@ owner:
   location: Darmstadt, Germany
   email: kai.zhao@stud.tu-darmstadt.de
   cv: https://zkManuel0123.github.io/file/CV-KaiZhao_20240928.pdf
+  Transcript: https://zkManuel0123.github.io/file/Leistungsspiegel.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: zkManuel0123
   linkedin: kai-zhao-manuel0123/
@@ -74,7 +75,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: 
 
 include: [".htaccess"]
 exclude:

@@ -16,6 +16,15 @@
 
 {% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="16.5" height="16.5"></i> My CV</a></p>{% endif %}
 
+<!-- 添加成绩单链接 -->
+{% if site.owner.transcript %}
+<p style="text-indent:0;">
+  <a href="{{ site.owner.transcript }}">
+    <img src="https://zkManuel0123.github.io/images/paperclip.svg" width="16" height="16" style="margin-right: 8px;"> Transcript
+  </a>
+</p>
+{% endif %}
+
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 
 {% if site.owner.facebook %}<p style="text-indent:0;"><a href="https://facebook.com/{{ site.owner.facebook }}"><i class="icon-facebook"></i> Facebook</a></p>{% endif %}
