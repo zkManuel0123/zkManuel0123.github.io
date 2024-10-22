@@ -32,3 +32,11 @@ title: My Coding Journey
 - Utilized jQuery for event handling, manipulating DOM elements (e.g., adding/removing CSS classes like "game-over"), and enhancing interactivity through animations (e.g., button flash on click).
 - Applied error handling by resetting the game when the user provides an incorrect sequence and allowing them to restart by pressing any key.
 - Project repository: [GitHub Link](https://github.com/zkManuel0123/Udemy-Course-Project)
+
+### Project 4: QR Code Generator Project | Node.js
+- Developed a command-line QR code generation tool using Node.js and npm packages
+- Implemented user input handling with Inquirer.js for enhanced user experience
+- Integrated QR code generation functionality using qr-image package
+- Built file handling system to save generated QR codes and user data
+- Demonstrated proficiency in Node.js ecosystem and package management
+- Project repository: [GitHub Link](https://github.com/zkManuel0123/Udemy-Course-Project)
