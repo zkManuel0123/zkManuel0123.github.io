@@ -5,7 +5,7 @@ title: Completed Courses and Transcripts
 ---
 > Update: 30th Sep 2024
 
-<h5 style="white-space: nowrap;">Specialized Courses Completed in M.Sc.Medizintechnik at TU Darmstadt & GU Frankfurt</h5>
+<h5 style="white-space: nowrap;">Specialized Courses Completed in M.Sc.Medical Technology at TU Darmstadt & GU Frankfurt</h5>
 
 - [Transcript](http://zkManuel0123.github.io/file/Leistungsspiegel.pdf)
 
@@ -20,13 +20,6 @@ title: Completed Courses and Transcripts
 </style>
 
 <dl>
-  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Medizinprodukteregulierung</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">In diesem Kurs habe ich die Grundlagen des Qualitätsmanagements und der Regulierung von Medizinprodukten, einschließlich MDR-Anforderungen, Risiko- und Usability-Management sowie klinischer Bewertung, gelernt.</span>
-    </div>
-  </dd>
-
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Grundlagen des Medizinischen Informationsmanagements</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
@@ -90,6 +83,13 @@ title: Completed Courses and Transcripts
     </div>   
   </dd>
 
+  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Medizinprodukteregulierung</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">In diesem Kurs habe ich die Grundlagen des Qualitätsmanagements und der Regulierung von Medizinprodukten, einschließlich MDR-Anforderungen, Risiko- und Usability-Management sowie klinischer Bewertung, gelernt.</span>
+    </div>
+  </dd>
+
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Strahlentherapie II</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
@@ -104,17 +104,17 @@ title: Completed Courses and Transcripts
     </div>   
   </dd>
 
-  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Praktikum der Chirurgie und Zahnmedizin I & II</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">In diesem Praktikum am Klinikum der Goethe-Universität Frankfurt habe ich die klinische Anwendung von chirurgischer Robotik, Navigation und digitaler Zahnmedizin, insbesondere in der Neuronavigation, Wirbelsäulen- und Beckenchirurgie, Onkologie und rekonstruktiven Zahnmedizin, sowie den Einsatz zugehöriger medizintechnischer Geräte und Softwareapplikationen praktisch kennengelernt.</span>
-    </div>   
-  </dd>
-
-  <dt style="margin-left: 0; font-weight: bold; font-size: 0.7em; display: block; width: 800px;">Robotik-Projektpraktikum & Aktuelle Themen der Entwicklung und Anwendung moderner Robotersysteme</dt>
+  <dt style="margin-left: 0; font-weight: bold; font-size: 0.7em; display: block; width: 800px;">Integriertes Robotik-Projekt 1 & Integriertes Robotik-Projekt 2</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
       <span style="display: block; width: 800px;">In diesem Projekt "Semi-Automatic Tool for Annotating Large-Scale 3D Assets" haben wir ein halbautomatisches Tool zur Annotation großformatiger 3D-Assets aus RGB-Videos entwickelt, das genaue 3D-Meshes erstellt und den manuellen Aufwand reduziert, mit zukünftigen Verbesserungen zur Optimierung der Präzision und Anwendung in VR, AR und automatisierten Inspektionssystemen.</span>
+    </div>   
+  </dd>
+
+  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Praktikum der Chirurgie und Zahnmedizin I & Praktikum der Chirurgie und Zahnmedizin II</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">In diesem Praktikum am Klinikum der Goethe-Universität Frankfurt habe ich die klinische Anwendung von chirurgischer Robotik, Navigation und digitaler Zahnmedizin, insbesondere in der Neuronavigation, Wirbelsäulen- und Beckenchirurgie, Onkologie und rekonstruktiven Zahnmedizin, sowie den Einsatz zugehöriger medizintechnischer Geräte und Softwareapplikationen praktisch kennengelernt.</span>
     </div>   
   </dd>
 </dl>

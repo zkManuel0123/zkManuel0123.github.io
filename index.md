@@ -4,7 +4,7 @@ layout: page
 
 ### About me
 
-I am currently pursuing a Master’s degree in Medical Technology at the Technical University of Darmstadt and I am looking for a topic for the master's thesis. My primary research interest lies in the application of large language models in medicine. Prior to this, I obtained a Master’s degree in Medicine from Beijing University of Chinese Medicine in 2020. I am passionate about exploring innovative ways to leverage artificial intelligence to improve healthcare outcomes, with a particular focus on how language models can enhance medical practices and decision-making.
+I am currently pursuing a Master’s degree in Medical Technology at the Technical University of Darmstadt, with a curriculum focused on computer science and artificial intelligence, specifically in Medical Data Science and Robotics. My primary research interest lies in the application of large language models in biomedicine. Prior to this, I obtained a Master’s degree in Medicine from Beijing University of Chinese Medicine. I am passionate about exploring innovative ways to leverage artificial intelligence to improve healthcare outcomes, with a particular focus on how language models can enhance medical practices and decision-making.
 
 <br>If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me: kai.zhao@stud.tu-darmstadt.de
 
@@ -12,7 +12,7 @@ I am currently pursuing a Master’s degree in Medical Technology at the Technic
 
 ### Research Interests
 
-I aim to leverage artificial intelligence and large language models to transform biomedicine and healthcare. My focus is on using AI to improve medical decision-making, facilitate the integration of biomedical knowledge, and develop tailored AI solutions that enhance clinical workflows and patient care.
+I aim to leverage artificial intelligence and large language models to transform biomedicine and healthcare. My focus is on using AI to improve medical decision-making, facilitate the integration of biomedical knowledge, and develop tailored AI solutions that enhance clinical workflows and patient care. Currently, I am working on applying Multi AI Agents in medicine to create innovative solutions that further optimize clinical processes and support comprehensive, AI-driven medical insights.
 
 ---
 
