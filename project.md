@@ -19,13 +19,13 @@ title: Project
 <dl>
 <dt style="width: 180px; float: left;">11/2024</dt>
   <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
-    <span style="white-space: nowrap; font-weight: bold;">Development of Medical QA System | TinyLlama-Medical-QA-System</span>
+    <span style="white-space: nowrap; font-weight: bold;">Development of Medical AI-Agents QA System | TinyLlama-Medical-QA-System</span>
     <div style="line-height: 1.2;">
       <span style="display: block; width: 700px;"> <a href="https://github.com/zkManuel0123/TinyLlama-medical-qa-system" target="_blank" class="underline-effect">The project's github link</a></span>
     </div>
     <div style="font-size: 0.8em; line-height: 1.5;">
     <span style="display: block; width: 700px;">
-        Developed a medical question-answering system based on <strong>TinyLlama-1.1B-Chat</strong>,
+        Developed a medical ai-agents question-answering system based on <strong>TinyLlama-1.1B-Chat</strong>,
         fine-tuned using <strong>LoRA (Low-Rank Adaptation)</strong> and the <strong>PEFT (Parameter Efficient Fine-Tuning)</strong> framework for domain-specific adaptation.<br>
         Built a <strong>Retrieval-Augmented Generation (RAG)</strong> system integrating <strong>FAISS</strong> vector database and <strong>Sentence Transformers</strong> for efficient text vectorization and similarity search.<br>
         Designed a multi-agent collaborative architecture using the <strong>LangChain</strong> framework and <strong>Hugging Face Transformers</strong> library:<br>
