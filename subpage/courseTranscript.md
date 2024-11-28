@@ -20,34 +20,6 @@ title: Completed Courses and Transcripts
 </style>
 
 <dl>
-  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Grundlagen des Medizinischen Informationsmanagements</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">Ich habe die Grundlagen von Krankenhausinformationssystemen, medizinischen Datenmodellen, klinischen Austauschformaten wie HL7, FHIR und DICOM, sowie Telemedizin und medizinischer Dokumentation gelernt.</span>
-    </div>   
-  </dd>
-
-  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Medical Data Science</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">Ich habe den Aufbau und die Entwicklung von Patientenregistern, die Anonymisierung von Gesundheitsdaten, Einwilligungserklärungen und Datenschutz, sowie die Forschungsstruktur in der Medizininformatik und zugehörige Berufsfelder gelernt. Unter Anleitung meiner Dozentin <a href="https://www.linkedin.com/in/abishaa-vengadeswaran-19100a117/" target="_blank" class="underline-effect">Frau Abishaa Vengadeswaran</a> und von <a href="https://www.imi-frankfurt.de/das-team-der-mig/" target="_blank" class="underline-effect">Prof. Dr. Holger Storf</a> habe ich <a href="https://zkManuel0123.github.io/file/MedicalDataScience.pdf" target="_blank" class="underline-effect">eine kurze Arbeit über FHIR</a> verfasst.</span>
-    </div>
-  </dd>
-
-  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Software Engineering-Wartung und Qualitätssicherung</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">Ich habe mich mit Softwarewartung, Reengineering, Konfigurationsmanagement, statischen und dynamischen Programmanalysen sowie Laufzeittests gelernt. Die in der Vorlesung behandelten Analysetechniken und Methoden zur Qualitätssicherung wurden in den Übungen anhand von Beispielen vertieft.</span>
-    </div>
-  </dd>
-
-  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Data Mining und Maschinelles Lernen</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">Ich habe den Datenanalyse-Zyklus (CRISP), Klassifikations- und Regressionsmethoden, lineare Modelle, Modellselektion und Evaluierung sowie baumbasierte Verfahren und Ensemble-Methoden gelernt. Zusätzlich habe ich mich mit Naive Bayes, Support Vector Machines, K-Means, Deep Learning, Multi-Layer Perceptrons und Convolutional Neural Networks beschäftigt.</span>
-    </div>
-  </dd>
-
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Deep Learning: Architectures & Methods</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
@@ -60,6 +32,20 @@ title: Completed Courses and Transcripts
     <div style="font-size: 0.6em; line-height: 1.5;">
       <span style="display: block; width: 800px;">Ich habe die Grundlagen des maschinellen Lernens, die Formalisierung von Lernproblemen, Verlustfunktionen und das Training mit Backpropagation sowie die Evaluation gelernt. Außerdem habe ich mich mit der Sprachrepräsentation (Word Embeddings, Multilinguale Embeddings), prominenten Architekturen wie CNNs und RNNs sowie modernen Architekturen wie Transformers und BERT auseinandergesetzt. Anwendungen wie Textklassifikation, Textgenerierung und Übersetzung standen ebenfalls im Fokus.</span>
     </div>   
+  </dd>
+
+  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Data Mining und Maschinelles Lernen</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">Ich habe den Datenanalyse-Zyklus (CRISP), Klassifikations- und Regressionsmethoden, lineare Modelle, Modellselektion und Evaluierung sowie baumbasierte Verfahren und Ensemble-Methoden gelernt. Zusätzlich habe ich mich mit Naive Bayes, Support Vector Machines, K-Means, Deep Learning, Multi-Layer Perceptrons und Convolutional Neural Networks beschäftigt.</span>
+    </div>
+  </dd>
+
+  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Software Engineering-Wartung und Qualitätssicherung</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">Ich habe mich mit Softwarewartung, Reengineering, Konfigurationsmanagement, statischen und dynamischen Programmanalysen sowie Laufzeittests gelernt. Die in der Vorlesung behandelten Analysetechniken und Methoden zur Qualitätssicherung wurden in den Übungen anhand von Beispielen vertieft.</span>
+    </div>
   </dd>
 
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Graphische Datenverarbeitung I</dt>
@@ -76,10 +62,38 @@ title: Completed Courses and Transcripts
     </div>   
   </dd>
 
+  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Grundlagen des Medizinischen Informationsmanagements</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">Ich habe die Grundlagen von Krankenhausinformationssystemen, medizinischen Datenmodellen, klinischen Austauschformaten wie HL7, FHIR und DICOM, sowie Telemedizin und medizinischer Dokumentation gelernt.</span>
+    </div>   
+  </dd>
+
+  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Medical Data Science</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">Ich habe den Aufbau und die Entwicklung von Patientenregistern, die Anonymisierung von Gesundheitsdaten, Einwilligungserklärungen und Datenschutz, sowie die Forschungsstruktur in der Medizininformatik und zugehörige Berufsfelder gelernt. Unter Anleitung meiner Dozentin <a href="https://www.linkedin.com/in/abishaa-vengadeswaran-19100a117/" target="_blank" class="underline-effect">Frau Abishaa Vengadeswaran</a> und von <a href="https://www.imi-frankfurt.de/das-team-der-mig/" target="_blank" class="underline-effect">Prof. Dr. Holger Storf</a> habe ich <a href="https://zkManuel0123.github.io/file/MedicalDataScience.pdf" target="_blank" class="underline-effect">eine kurze Arbeit über FHIR</a> verfasst.</span>
+    </div>
+  </dd>
+
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Mensch vs. Computer bei bildgebender Diagnostik</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
       <span style="display: block; width: 800px;">Ich habe den Einsatz und die Bewertung bildgebender Verfahren in der klinischen Routine, einschließlich Bildanalyse, Bildbefundung, technischer Hilfsmittel sowie der Vor- und Nachteile computergestützter Bildanalyse, gelernt.</span>
+    </div>   
+  </dd>
+
+  <dt style="margin-left: 0; font-weight: bold; font-size: 0.7em; display: block; width: 800px;">Integriertes Robotik-Projekt 1 & Integriertes Robotik-Projekt 2</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">In diesem Projekt "Semi-Automatic Tool for Annotating Large-Scale 3D Assets" haben wir ein halbautomatisches Tool zur Annotation großformatiger 3D-Assets aus RGB-Videos entwickelt, das genaue 3D-Meshes erstellt und den manuellen Aufwand reduziert, mit zukünftigen Verbesserungen zur Optimierung der Präzision und Anwendung in VR, AR und automatisierten Inspektionssystemen.</span>
+    </div>   
+  </dd>
+
+  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Praktikum der Chirurgie und Zahnmedizin I & Praktikum der Chirurgie und Zahnmedizin II</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">In diesem Praktikum am Klinikum der Goethe-Universität Frankfurt habe ich die klinische Anwendung von chirurgischer Robotik, Navigation und digitaler Zahnmedizin, insbesondere in der Neuronavigation, Wirbelsäulen- und Beckenchirurgie, Onkologie und rekonstruktiven Zahnmedizin, sowie den Einsatz zugehöriger medizintechnischer Geräte und Softwareapplikationen praktisch kennengelernt.</span>
     </div>   
   </dd>
 
@@ -102,19 +116,5 @@ title: Completed Courses and Transcripts
     <div style="font-size: 0.6em; line-height: 1.5;">
       <span style="display: block; width: 800px;">Ich habe die Grundlagen der Mikrosystemtechnik, einschließlich Werkstoffe, Mikroaktoren, Mikrofluidik, Mikrosensoren und integrierte Sensor-Aktor-Systeme, sowie aktuelle Trends und ökonomische Aspekte gelernt.</span>
     </div>   
-  </dd>
-
-  <dt style="margin-left: 0; font-weight: bold; font-size: 0.7em; display: block; width: 800px;">Integriertes Robotik-Projekt 1 & Integriertes Robotik-Projekt 2</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">In diesem Projekt "Semi-Automatic Tool for Annotating Large-Scale 3D Assets" haben wir ein halbautomatisches Tool zur Annotation großformatiger 3D-Assets aus RGB-Videos entwickelt, das genaue 3D-Meshes erstellt und den manuellen Aufwand reduziert, mit zukünftigen Verbesserungen zur Optimierung der Präzision und Anwendung in VR, AR und automatisierten Inspektionssystemen.</span>
-    </div>   
-  </dd>
-
-  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Praktikum der Chirurgie und Zahnmedizin I & Praktikum der Chirurgie und Zahnmedizin II</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">In diesem Praktikum am Klinikum der Goethe-Universität Frankfurt habe ich die klinische Anwendung von chirurgischer Robotik, Navigation und digitaler Zahnmedizin, insbesondere in der Neuronavigation, Wirbelsäulen- und Beckenchirurgie, Onkologie und rekonstruktiven Zahnmedizin, sowie den Einsatz zugehöriger medizintechnischer Geräte und Softwareapplikationen praktisch kennengelernt.</span>
-    </div>   
-  </dd>
+  </dd> 
 </dl>
