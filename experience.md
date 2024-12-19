@@ -10,7 +10,7 @@ title: Experience
 
 <dl>
   <dt style="width: 220px; float: left;">02/2024 - 08/2024:</dt>
-  <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;">Student Assistant in Medical Data Analysis,<br>Rosenpark Research GmbH (Darmstadt, Germany)</dd>
+  <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;">Working Student in Data Analysis,<br>Rosenpark Research GmbH (Darmstadt, Germany)</dd>
   
   <dt style="width: 220px; float: left;">04/2023 – 07/2023:</dt>
   <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;"><a href="http://zkManuel0123.github.io/file/ArbeitszeugnisvonstudentischeHilfskraft.pdf" class="underline-effect" target="_blank">Student Assistant as Tutor in C++ Programming</a>,

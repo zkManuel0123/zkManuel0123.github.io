@@ -5,11 +5,9 @@ layout: page
 ### About me
 
 <!-- I am currently pursuing a Master’s degree in Medical Technology at the Technical University of Darmstadt, with a curriculum focused on computer science and artificial intelligence, specifically in Medical Data Science and Robotics. My primary research interest lies in the application of large language models in biomedicine. Prior to this, I obtained a Master’s degree in Medicine from Beijing University of Chinese Medicine. I am passionate about exploring innovative ways to leverage artificial intelligence to improve healthcare outcomes, with a particular focus on how language models can enhance medical practices and decision-making. -->
-I am currently pursuing a Master’s degree in Medical Technology at the Technical University of Darmstadt, with a curriculum focused on artificial intelligence and computer science. 
+I am currently pursuing a Master’s degree in Medical Technology at the Technical University of Darmstadt, with a curriculum focused on artificial intelligence and computer science. My interest is in studying and designing versatile AI agent systems across various domains.
 
-<br>I study and design AI agents.
-
-<br>If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me: kai.zhao@stud.tu-darmstadt.de
+<br>If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me: manuelkaizhao@outlook.com or kai.zhao@stud.tu-darmstadt.de 
 
 ---
 

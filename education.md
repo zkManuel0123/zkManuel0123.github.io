@@ -27,9 +27,9 @@ title: Education
   <span style="font-size: 0.8em; margin-right: 20px;"><a href="http://zkManuel0123.github.io/file/TranscriptTCM.pdf" style="color: blue;" target="_blank">Transcript</a></span><span style="font-size: 0.8em; "><a href="https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021011708.nh&uniplatform=OVERSEA&v=vRjUgJazyYZWKLSi2Lvy86tLhTWNsJPY5wziGsxW11iVuJEXoQF5MvONx8CD2Oq-" style="color: blue;" target="_blank">Master's Thesis</a></span>
   </dd>
 
-  <dt style="width: 180px; float: left;">07/2014 – 06/2017</dt>
+  <!-- <dt style="width: 180px; float: left;">07/2014 – 06/2017</dt>
   <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Health-related Break (Gesundheitliche Auszeit),<br>
-  Health break and preparation for postgraduate entrance exams in China</dd>
+  Health break and preparation for postgraduate entrance exams in China</dd> -->
 
   <dt style="width: 180px; float: left;">09/2009 – 06/2013</dt>
   <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Bachelor of Engineering in Automation,<br>
