@@ -17,6 +17,17 @@ title: Project
 </style>
 
 <dl>
+<dt style="width: 180px; float: left;">Ongoing</dt>
+  <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
+    <span style="display: block; width: 700px; font-weight: bold;">Master's Thesis: Enhancing NLI for Biomedical Applications using LLMs</span>
+    <div style="line-height: 1.2;">
+      <span style="display: block; width: 700px;">Under the Department of Computer Science, Technical University of Darmstadt</span>
+    </div>
+    <div style="font-size: 0.8em; line-height: 1.5;">
+      <span style="display: block; width: 700px;">Conducting advanced research on optimizing LLMs for biomedical semantic reasoning tasks through cost-efficient and robust methods leveraging multi-agent frameworks and prompt engineering strategies.</span>
+    </div>
+  </dd>
+
 <dt style="width: 180px; float: left;">11/2024</dt>
   <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
     <span style="white-space: nowrap; font-weight: bold;">Development of Medical AI-Agents QA System | TinyLlama-Medical-QA-System</span>
