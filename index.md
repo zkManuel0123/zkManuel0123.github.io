@@ -13,7 +13,8 @@ I am currently pursuing a Master’s degree in Medical Technology at the Technic
 
 ### Research Interests
 
-I aim to leverage artificial intelligence and large language models to transform biomedicine and healthcare. My focus is on using AI to improve medical decision-making, facilitate the integration of biomedical knowledge, and develop tailored AI solutions that enhance clinical workflows and patient care. Currently, I am working on applying Multi AI Agents in medicine to create innovative solutions that further optimize clinical processes and support comprehensive, AI-driven medical insights.
+<!-- I aim to leverage artificial intelligence and large language models to transform biomedicine and healthcare. My focus is on using AI to improve medical decision-making, facilitate the integration of biomedical knowledge, and develop tailored AI solutions that enhance clinical workflows and patient care. Currently, I am working on applying Multi AI Agents in medicine to create innovative solutions that further optimize clinical processes and support comprehensive, AI-driven medical insights. -->
+I am passionate about advancing artificial intelligence and large language models to drive innovation across diverse fields. My focus lies in exploring cutting-edge AI technologies to solve complex problems, integrate domain-specific knowledge, and create tailored AI solutions that enhance decision-making and operational workflows. Currently, I am particularly interested in applying Multi AI Agents to design innovative systems that optimize processes and support comprehensive, AI-driven insights in various industries.
 
 ---
 

@@ -42,15 +42,22 @@ title: Education
 
 ### Software and Programming Proficiencies
 
-+ Machine Learning: Python
-+ Deep Learning: PyTorch
-+ Natural Language Processing (NLP)
-+ Programming Languages: Python, C, C++, Java
-+ Web Development: HTML, CSS, JavaScript, VueJS
-+ Databases: SQL
-+ Software Tools: Git, Linux
-+ Software Testing
-+ Computer Vision and OpenGL
++ Programming Languages:
+          Backend: Python, Node.js, Flask, Express
+          Frontend: JavaScript, HTML, CSS, VueJS, React
+          General Purpose: C, C++, Java
+
++ Databases: SQL, Vector databases (e.g.FAISS)
+
++ LLMs & GenAI: Hugging Face Transformers, Fine-tuning, and Prompt Engineering, LoRA, RAG with LLMs, Multi-modal AI
+  
++ AI-Agent: LangChain, LangGraph, LlamaIndex, CrewAI, OpenAI Function Calling
+  
++ Computer Vision & 3D Reconstruction: NeRF, 3D Gaussian Splatting, SAM for advanced segmentation tasks, PointCloud, PyTorch, CUDA
+  
++ Version Control & Operating Systems: Git, Linux
+
++ Software Development: Software Testing, Agile Development Practices
 
 
  
