@@ -8,22 +8,22 @@ title: Education
 
 <dl>
   <dt style="width: 180px; float: left;">04/2022 – Present</dt>
-  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">M.Sc. Medical Technology - Specialization in AI and Computer Technology,<br>
-  Technische Universität Darmstadt & Goethe-Universität Frankfurt<br>
+  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;"> Msc. Medical Technology | Specialization in AI and Computer Technology<br>
+   Technical University of Darmstadt & Goethe University Frankfurt<br>
   <span style="font-size: 0.8em; "><a href="/subpage/courseTranscript/index.html" style="color: blue;">Completed Courses and Transcript</a></span>
   </dd>
 
   <dt style="width: 180px; float: left;">04/2021 – 03/2022</dt>
-  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Preparatory Semester for M.Sc. in Electrical Engineering and Information Technology,<br>
-  Technische Universität Darmstadt</dd>
+  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;"> Pre-Master's Studies in Electrical and Information Technology<br>
+  Technical University of Darmstadt, Germany</dd>
 
   <dt style="width: 180px; float: left;">10/2020 – 03/2021</dt>
-  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Propädeutikum,<br>
-  Technische Universität Dresden</dd>
+  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">DSH Preparation Program<br>
+  Technical University of Dresden, Germany</dd>
 
   <dt style="width: 180px; float: left;">09/2017 – 06/2020</dt>
-  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Master of Medicine in Chinese Medicine, Three-year Research-based Program <br>
-  Beijing University of Chinese Medicine (Beijing, China)<br>
+  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Master of Medicine in Chinese Medicine | 3-year Research-based Program<br>
+  Beijing University of Chinese Medicine, China<br>
   <span style="font-size: 0.8em; margin-right: 20px;"><a href="http://zkManuel0123.github.io/file/TranscriptTCM.pdf" style="color: blue;" target="_blank">Transcript</a></span><span style="font-size: 0.8em; "><a href="https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021011708.nh&uniplatform=OVERSEA&v=vRjUgJazyYZWKLSi2Lvy86tLhTWNsJPY5wziGsxW11iVuJEXoQF5MvONx8CD2Oq-" style="color: blue;" target="_blank">Master's Thesis</a></span>
   </dd>
 
@@ -32,8 +32,8 @@ title: Education
   Health break and preparation for postgraduate entrance exams in China</dd> -->
 
   <dt style="width: 180px; float: left;">09/2009 – 06/2013</dt>
-  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Bachelor of Engineering in Automation,<br>
-  Hefei University of Technology (Hefei, China)<br>
+  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;">Bachelor of Engineering in Automation<br>
+  Hefei University of Technology, China<br>
   <span style="font-size: 0.8em; "><a href="http://zkManuel0123.github.io/file/TranscriptofBachelor.pdf" style="color: blue;" target="_blank">Transcript of Bachelor</a></span>
   </dd>
 </dl>
@@ -43,7 +43,7 @@ title: Education
 ### Licenses & Certifications
 
 - **The Web Developer Bootcamp** (Udemy, 2024)  
-  Full-stack web development using HTML5, CSS3, JavaScript (ES6+), Node.js, Express.js, MongoDB, along with modern frameworks including Bootstrap 5 and REST APIs.  
+  Full-stack web development using HTML5, CSS3, JavaScript (ES6+), Node.js, Express.js, React, MongoDB, along with modern frameworks including Bootstrap 5 and REST APIs.  
   [View Certificate](https://www.udemy.com/certificate/UC-e4b84898-b758-4216-b73a-75eebb6ba459/)
 
 - **AI-Agents: Automation & Business with LangChain & LLM Apps** (Udemy, 2024)  
@@ -58,22 +58,26 @@ title: Education
   Mastered fundamental algorithmic techniques and data structures for efficient problem-solving, with hands-on experience in designing and implementing optimized solutions for technical coding interviews from UC San Diego's algorithmic course.
   [View Certificate](https://www.coursera.org/account/accomplishments/verify/QEZMJRY3X5NT)
 
-### Software and Programming Proficiencies
+### Technical Skills 
 
-+ Programming Languages:
-          Backend: Python, Node.js, Flask, Express
-          Frontend: JavaScript, HTML, CSS, VueJS, React
-          General Purpose: C, C++, Java
+**Programming Languages & Frameworks**
+- Backend: Python, C++, Java, Node.js
+- Web Development: JavaScript, HTML/CSS, React, Vue.js
+- Frameworks: Flask, Express.js, PyTorch, CUDA
 
-+ Databases: SQL, Vector databases (e.g.FAISS)
+**AI & Generative AI**
+- LLMs: Hugging Face Transformers, LoRA fine-tuning, Prompt Engineering
+- AI Agents: LangChain, LangGraph, LlamaIndex, AutoGen, CrewAI, OpenAI Function Calling
+- RAG: FAISS vector database
 
-+ LLMs & GenAI: Hugging Face Transformers, Fine-tuning, and Prompt Engineering, LoRA, RAG with LLMs, Multi-modal AI
-  
-+ AI-Agent: LangChain, LangGraph, LlamaIndex, CrewAI, OpenAI Function Calling
-  
-+ Computer Vision & 3D Reconstruction: NeRF, 3D Gaussian Splatting, SAM for advanced segmentation tasks, PointCloud, PyTorch, CUDA
-  
-+ Version Control & Operating Systems: Git, Linux
+**Computer Vision & 3D**
+- 3D Reconstruction: NeRF, 3D Gaussian Splatting, Point Cloud Processing
+- Vision Models: SAM2, PyTorch Vision
+- GPU Programming: CUDA
 
-+ Software Development: Software Testing, Agile Development Practices
+**Development Tools & Practices**
+- Databases: SQL, PostgreSQL, Vector Databases
+- Version Control: Git, GitHub
+- Development: Agile methodologies, Test-Driven Development
+- Operating Systems: Linux
 

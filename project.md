@@ -17,14 +17,16 @@ title: Project
 </style>
 
 <dl>
-<dt style="width: 180px; float: left;">Ongoing</dt>
+<dt style="width: 180px; float: left;">12/2024 – Present</dt>
   <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
-    <span style="display: block; width: 700px; font-weight: bold;">Master's Thesis: Enhancing NLI for Biomedical Applications using LLMs</span>
+    <span style="display: block; width: 700px; font-weight: bold;">LLM-Enhanced Natural Language Inference for Biomedicine application</span>
     <div style="line-height: 1.2;">
-      <span style="display: block; width: 700px;">Under the Department of Computer Science, Technical University of Darmstadt</span>
+      <span style="display: block; width: 700px;"> Master's Thesis under the Department of Computer Science, Technical University of Darmstadt</span>
     </div>
-    <div style="font-size: 0.8em; line-height: 1.5;">
-      <span style="display: block; width: 700px;">Conducting advanced research on optimizing LLMs for biomedical semantic reasoning tasks through cost-efficient and robust methods leveraging multi-agent frameworks and prompt engineering strategies.</span>
+  <div style="font-size: 0.8em; line-height: 1.5;">
+      <span style="display: block; width: 700px;">- Developing novel multi-agent frameworks to optimize LLMs for biomedical semantic reasoning
+- Implementing cost-efficient methods for medical knowledge extraction and inference
+- Designing advanced prompt engineering strategies for improved model performance</span>
     </div>
   </dd>
 
