@@ -24,9 +24,13 @@ title: Project
       <span style="display: block; width: 700px;"> Master's Thesis under the Department of Computer Science, Technical University of Darmstadt</span>
     </div>
   <div style="font-size: 0.8em; line-height: 1.5;">
-      <span style="display: block; width: 700px;">- Developing novel multi-agent frameworks to optimize LLMs for biomedical semantic reasoning
-- Implementing cost-efficient methods for medical knowledge extraction and inference
-- Designing advanced prompt engineering strategies for improved model performance</span>
+      <span style="display: block; width: 700px;">
+        <ul>
+          <li>Developing novel multi-agent frameworks to optimize LLMs for biomedical semantic reasoning</li>
+          <li>Implementing cost-efficient methods for medical knowledge extraction and inference</li>
+          <li>Designing advanced prompt engineering strategies for improved model performance</li>
+        </ul>
+      </span>
     </div>
   </dd>
 
