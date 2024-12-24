@@ -70,12 +70,19 @@ title: Project
 
   <dt style="width: 180px; float: left;">09/2018 - 05/2020</dt>
   <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
-    <span style="display: block; width: 700px; font-weight: bold;">Effect of Melatonin Combined with Yupingfeng Powder on Immune Function in Elderly Rats Under Sudden Temperature Changes</span>
+    <span style="display: block; width: 700px; font-weight: bold;">Immunological Response Analysis in Temperature Variation Study</span>
     <div style="line-height: 1.2;">
-      <span style="display: block; width: 700px;">Beijing University of Chinese Medicine Scientific Research Development Fund Project, No.2010072120027</span>
+      <span style="display: block; width: 700px;">Scientific Research Fund Project, Beijing University of Chinese Medicine, No.2010072120027</span>
     </div>
     <div style="font-size: 0.8em; line-height: 1.5;">
-      <span style="display: block; width: 700px;">Independently designed, executed, and completed the project under the guidance of my supervisor. Responsibilities included developing the experimental protocol, conducting the experiment, analyzing the data using SAS, and writing the final project report and research papers.</span>
+      <span style="display: block; width: 700px;">
+        <ul>
+          <li>Conducted comprehensive research combining immunological experiments and bioinformatics analysis</li>
+          <li>Applied network pharmacology methods to analyze drug-target interactions using Python, R, SAS</li>
+          <li>Developed data analysis pipeline for processing multi-source experimental data</li>
+          <li>Implemented statistical modeling and visualization for complex biological datasets using Cytoscape</li>
+        </ul>
+      </span>
     </div>
   </dd>
 </dl>
