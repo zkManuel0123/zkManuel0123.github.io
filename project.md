@@ -77,10 +77,10 @@ title: Project
     <div style="font-size: 0.8em; line-height: 1.5;">
       <span style="display: block; width: 700px;">
         <ul>
-          <li>Conducted comprehensive research combining immunological experiments and bioinformatics analysis</li>
-          <li>Applied network pharmacology methods to analyze drug-target interactions using Python, R, SAS</li>
-          <li>Developed data analysis pipeline for processing multi-source experimental data</li>
-          <li>Implemented statistical modeling and visualization for complex biological datasets using Cytoscape</li>
+            <li>Conducted comprehensive research combining immunological experiments and bioinformatics analysis</li>
+            <li>Applied network pharmacology methods to analyze drug-target interactions using Python, R, SAS</li>
+            <li>Developed data analysis pipeline for processing multi-source experimental data</li>
+            <li>Implemented statistical modeling and visualization for complex biological datasets using Cytoscape</li>
         </ul>
       </span>
     </div>
