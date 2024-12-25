@@ -18,7 +18,7 @@ title: Experience
 
   <dt style="width: 220px; float: left;">11/2022 – 02/2023:</dt>
   <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;">UX Research Working Student
-  <br>Custom Medical GmbH, Darmstadt, Germany</dd>
+  <br>Custom Interactions GmbH, Darmstadt, Germany</dd>
 
   <dt style="width: 220px; float: left;">08/2020 – 09/2020:</dt>
   <dd style="margin-left: 230px; white-space: nowrap; margin-bottom: 20px;">Editorial Research Intern in Scientific Journal
