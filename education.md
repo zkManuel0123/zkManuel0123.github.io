@@ -8,7 +8,7 @@ title: Education
 
 <dl>
   <dt style="width: 180px; float: left;">04/2022 – Present</dt>
-  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;"> Msc. Medical Technology | Specialization in AI and Computer Technology<br>
+  <dd style="margin-left: 200px; white-space: nowrap; margin-bottom: 20px;"> Msc. Medical Technology | Specialization in AI and Software Development<br>
    Technical University of Darmstadt & Goethe University Frankfurt<br>
   <span style="font-size: 0.8em; "><a href="/subpage/courseTranscript/index.html" style="color: blue;">Completed Courses and Transcript</a></span>
   </dd>
