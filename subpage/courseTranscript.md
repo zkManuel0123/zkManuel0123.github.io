@@ -69,6 +69,13 @@ title: Completed Courses and Transcripts
     </div>   
   </dd>
 
+  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Mikrosystemtechnik</dt>
+  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
+    <div style="font-size: 0.6em; line-height: 1.5;">
+      <span style="display: block; width: 800px;">Ich habe die Grundlagen der Mikrosystemtechnik, einschließlich Werkstoffe, Mikroaktoren, Mikrofluidik, Mikrosensoren und integrierte Sensor-Aktor-Systeme, sowie aktuelle Trends und ökonomische Aspekte gelernt.</span>
+    </div>   
+  </dd>
+
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Grundlagen des Medizinischen Informationsmanagements</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
@@ -90,8 +97,6 @@ title: Completed Courses and Transcripts
     </div>   
   </dd>
 
-  
-
   <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Praktikum der Chirurgie und Zahnmedizin I & Praktikum der Chirurgie und Zahnmedizin II</dt>
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
@@ -110,13 +115,6 @@ title: Completed Courses and Transcripts
   <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
     <div style="font-size: 0.6em; line-height: 1.5;">
       <span style="display: block; width: 800px;">In diesem Kurs habe ich die Grundlagen der Strahlentherapieplanung, einschließlich bildgebender Modalitäten, Dosisberechnungsalgorithmen, Qualitätssicherung und speziellen Techniken wie Brachytherapie und stereotaktische Strahlentherapie, gelernt.</span>
-    </div>   
-  </dd>
-
-  <dt style="margin-left: 0;white-space: nowrap; font-weight: bold; font-size: 0.7em;">Mikrosystemtechnik</dt>
-  <dd style="margin-left: 0; margin-bottom: 20px; max-width: 800px;">
-    <div style="font-size: 0.6em; line-height: 1.5;">
-      <span style="display: block; width: 800px;">Ich habe die Grundlagen der Mikrosystemtechnik, einschließlich Werkstoffe, Mikroaktoren, Mikrofluidik, Mikrosensoren und integrierte Sensor-Aktor-Systeme, sowie aktuelle Trends und ökonomische Aspekte gelernt.</span>
     </div>   
   </dd> 
 </dl>
