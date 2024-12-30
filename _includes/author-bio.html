@@ -4,7 +4,11 @@
 
 <p>{{ site.owner.bio }}</p>
 
-
+{% if site.owner.education %}
+<p style="text-indent:0; margin-top: 10px; margin-bottom: 5px;">
+  <i class="fa-solid fa-graduation-cap" style="margin-right: 8px;"></i> {{ site.owner.education }}
+</p>
+{% endif %}
 
 {% if site.owner.location %}
 <p style="text-indent:0; margin-top: 10px; margin-bottom: 5px;">
