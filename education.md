@@ -46,6 +46,11 @@ title: Education
   Full-stack web development using HTML5, CSS3, JavaScript (ES6+), Node.js, Express.js, React, MongoDB, along with modern frameworks including Bootstrap 5 and REST APIs.  
   [View Certificate](https://www.udemy.com/certificate/UC-e4b84898-b758-4216-b73a-75eebb6ba459/)
 
+
+- **Java Masterclass 2025** (Udemy, 2025)
+  Mastered core Java programming and industry best practices. Demonstrated in-depth understanding of Object-Oriented Programming concepts and enterprise-level Java development capabilities. Acquired professional Java development standards and design patterns, establishing a solid foundation for Spring Framework, Java EE, and Android development.
+  [View Certificate](https://www.udemy.com/certificate/UC-a6975d1f-7e73-4c1c-84fd-69529d53dfda/)
+
 - **AI-Agents: Automation & Business with LangChain & LLM Apps** (Udemy, 2024)  
   Developed AI automation solutions using LangChain, AutoGen, and various LLMs, implementing RAG with vector databases, and creating custom AI agents for business automation with function calling.
   [View Certificate](https://www.udemy.com/certificate/UC-ce795989-243f-4d06-b785-39f4dc9d44b7/)
