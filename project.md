@@ -34,7 +34,28 @@ title: Project
     </div>
   </dd>
 
-<dt style="width: 180px; float: left;">11/2024</dt>
+<dt style="width: 180px; float: left;">11/2024 – 12/2024</dt>
+  <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
+    <span style="display: block; width: 700px; font-weight: bold;">24-Game Solver: Large Language Model Fine-tuning Project</span>
+    <div style="line-height: 1.2;">
+      <span style="display: block; width: 700px;"> <a href="https://github.com/zkManuel0123/TinyLlama-medical-qa-system" target="_blank" class="underline-effect">The project's github link</a></span>
+    </div>
+  <div style="font-size: 0.8em; line-height: 1.5;">
+      <span style="display: block; width: 700px;">
+        <ul>
+          <li>Designed and implemented a depth-first search algorithm to generate comprehensive training and test datasets with detailed Chain-of-Thought (CoT) solution steps in JSON format</li>
+          <li>Implemented fine-tuning of Qwen2.5-0.5B and Qwen2.5-14B language model using LoRA technique to solve the 24-game mathematical puzzle, leveraging PyTorch and Transformers framework</li>
+          <li>Engineered a Long Chain-of-Thought prompting strategy to enhance model's mathematical reasoning capabilities, with custom dataset creation and preprocessing pipeline</li>
+          <li>Optimized training efficiency through gradient checkpointing, mixed-precision training (FP16), and proper hyperparameter tuning, achieving 3x faster training speed</li>
+          <li>Conducted comparative experiments between 0.5B and 14B parameter models to investigate scaling laws, with comprehensive analysis using Weights & Biases for experiment tracking</li>
+          <li>Developed insights into model behavior through systematic evaluation of loss convergence patterns and reasoning capabilities, identifying key areas for improvement in data quality and training strategies</li>
+        </ul>
+      </span>
+    </div>
+  </dd>
+
+
+<dt style="width: 180px; float: left;">10/2024 - 11/2024</dt>
   <dd style="margin-left: 190px; margin-bottom: 20px; max-width: 700px;">
     <span style="white-space: nowrap; font-weight: bold;">Development of Medical AI-Agents QA System | TinyLlama-Medical-QA-System</span>
     <div style="line-height: 1.2;">

@@ -4,10 +4,10 @@ layout: page
 
 ### About me
 
-<!-- I am currently pursuing a Master’s degree in Medical Technology at the Technical University of Darmstadt, with a curriculum focused on computer science and artificial intelligence, specifically in Medical Data Science and Robotics. My primary research interest lies in the application of large language models in biomedicine. Prior to this, I obtained a Master’s degree in Medicine from Beijing University of Chinese Medicine. I am passionate about exploring innovative ways to leverage artificial intelligence to improve healthcare outcomes, with a particular focus on how language models can enhance medical practices and decision-making. -->
-With a Bachelor's degree in Automation Engineering, I am currently pursuing a Master's degree in Medical Technology with a specialization in AI and Software Development at the Technical University of Darmstadt. I combine computer science principles with artificial intelligence to develop robust LLM agent systems and automated solutions. My expertise lies in designing versatile AI architectures and implementing intelligent software systems across various domains.
+I hold a Bachelor’s degree in Automation from HFUT and a Master’s degree in Medical Technology with a specialization in Medical Informatics and Artificial Intelligence from Technical University of Darmstadt. Prior to this, I also obtained a Master's degree in Medicine from Beijing University of Chinese Medicine, driven by my curiosity about medicine. I believe medicine should not be passive, but rather empowered by AI to proactively serve human health. Therefore, exploring the boundaries of AI capabilities is crucial for humanity.
 
-<br>If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me: manuelkaizhao@outlook.com or kai.zhao@stud.tu-darmstadt.de 
+My current research focuses on developing reliable and adaptive AI agent systems, with emphasis on generalizability, autonomous open-ended problem-solving. I am particularly interested in how autonomous agents can collaborate, plan, and make decisions in complex environments such as medicine, scientific research, and data-driven discovery. My broader goal is to design intelligent, interpretable, and safe agentic systems capable of assisting humans in scientific reasoning, clinical decision-making, and knowledge synthesis. I am exploring various aspects of AI agent frameworks, aiming to advance next-generation agentic AI that combines cognitive flexibility with trustworthiness.
+<br>
 
 ---
 
